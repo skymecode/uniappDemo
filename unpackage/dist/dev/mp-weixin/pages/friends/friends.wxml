@@ -1,0 +1,1 @@
+<view><u--image vue-id="08d68dd8-1" src="https://content.skyscnr.com/m/1dbce38654447cf8/original/eyeem_129485062-jpg.jpg?crop=1224px:647px&quality=100&position=attention" mode="aspectFill" width="100%" bind:__l="__l"></u--image><info vue-id="08d68dd8-2" list="{{listData}}" bind:__l="__l"></info></view>

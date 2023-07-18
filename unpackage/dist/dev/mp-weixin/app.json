@@ -1,0 +1,38 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/friends/friends",
+    "pages/about/about",
+    "pages/cashDetails/cashDetails"
+  ],
+  "subPackages": [],
+  "window": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "uni-app",
+    "navigationBarBackgroundColor": "#F8F8F8",
+    "backgroundColor": "#F8F8F8"
+  },
+  "tabBar": {
+    "list": [
+      {
+        "pagePath": "pages/index/index",
+        "text": "首页",
+        "iconPath": "/static/未选中主页.png",
+        "selectedIconPath": "static/主页.png"
+      },
+      {
+        "pagePath": "pages/friends/friends",
+        "text": "动态",
+        "iconPath": "/static/dt2.png",
+        "selectedIconPath": "static/dt.png"
+      },
+      {
+        "pagePath": "pages/about/about",
+        "text": "个人信息",
+        "iconPath": "/static/我的 (2).png",
+        "selectedIconPath": "/static/我的 (4).png"
+      }
+    ]
+  },
+  "usingComponents": {}
+}
